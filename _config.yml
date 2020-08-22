@@ -26,7 +26,7 @@ url: "https://samtampakis.github.io/" # the base hostname & protocol for your si
 github_username:  samtampakis
 
 # Build settings
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 

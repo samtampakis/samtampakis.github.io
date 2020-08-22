@@ -12,7 +12,7 @@ Software Developer
 <li>Design and develop high quality software. Perform regular code review for new and existing functionality.</li>
 <li>Lead discussions with customers to gather business requirements. Determine reasonable default behaviors so functionality 
 can work out of the box without undermining customizability.</li>
-<li>Develop and maintain interface code using SOAP, XML, and MTOM.  Debug connection issues and assist with establishing new connections.</li>
+<li>Develop and maintain interface code using SOAP, XML, and MTOM.  Debug communication issues for live interfaces and assist with establishing new connections.</li>
 <li>Handle highly sensitive data securely and prevent code injection. Received HIPAA training.</li>
 <li>Parse highly structured and difficult to read data and translate it into a more usable format.</li>
 <li>Create functional and easily extensible data models. Store and retrieve data from a NoSQL database.</li>
