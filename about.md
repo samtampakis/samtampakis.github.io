@@ -6,8 +6,8 @@ title: About
 <h3>Employment</h3>
 
 <strong>Epic Systems Corporation</strong>, Verona, WI
-Software Developer
-<em>September 2017 - Present</em>
+<br>Software Developer
+<br><em>September 2017 - Present</em>
 <ul>
 <li>Design and develop high quality software. Perform regular code review for new and existing functionality.</li>
 <li>Lead discussions with customers to gather business requirements. Determine reasonable default behaviors so functionality 
@@ -18,8 +18,15 @@ can work out of the box without undermining customizability.</li>
 <li>Create functional and easily extensible data models. Store and retrieve data from a NoSQL database.</li>
 <li>Provide setup support and technical background for projects after release. Assist with setup for 
 internal testing as well as  live customer environments.</li>
-<li>Experience with Waterfall and Agile development strategies.</li>
 </ul>
+<br>
+<strong>Marist College</strong>, Poughkeepsie, NY
+<br>Student Tutor, <em>September 2015 - June 2017</em> - Taught Software Development, Introduction to Programming, Discrete Mathematics, and Statistics
+<br>Student Developer, <em>June 2016 - June </em> - Implemented UI for a student information database.
+<br><br>
+<strong>Verisk Analytics</strong>, Jersey City, NJ
+<br>Summer Intern, <em>Summer 2015</em> - Assisted in server migration and performed maintenance for an emergency website
+<br>
 
 
 <h3>Technical Competencies</h3>
