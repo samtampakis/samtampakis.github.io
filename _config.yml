@@ -21,8 +21,7 @@
 title: Sam Tampakis
 email: sam.tampakis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  It's-a-me, Mario!
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: "https://samtampakis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  samtampakis
 
