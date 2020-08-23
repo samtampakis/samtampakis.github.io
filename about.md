@@ -12,7 +12,7 @@ title: About
 <li>Design and develop high quality software. Perform regular code review for new and existing functionality.</li>
 <li>Lead discussions with customers to gather business requirements. Determine reasonable default behaviors so functionality 
 can work out of the box without undermining customizability.</li>
-<li>Develop and maintain interface code using SOAP, XML, and MTOM.  Debug communication issues for live interfaces and assist with establishing new connections.</li>
+<li>Develop and maintain interface code using SOAP, XML, and MTOM.</li>
 <li>Handle highly sensitive data securely and prevent code injection. Received HIPAA training.</li>
 <li>Parse highly structured and difficult to read data and translate it into a more usable format.</li>
 <li>Create functional and easily extensible data models. Store and retrieve data from a NoSQL database.</li>
@@ -22,7 +22,7 @@ internal testing as well as  live customer environments.</li>
 <br>
 <strong>Marist College</strong>, Poughkeepsie, NY
 <br>Student Tutor, <em>September 2015 - June 2017</em> - Taught Software Development, Introduction to Programming, Discrete Mathematics, and Statistics
-<br>Student Developer, <em>June 2016 - June </em> - Implemented UI for a student information database.
+<br>Student Developer, <em>June 2016 - June 2017</em> - Implemented UI for a student information database.
 <br><br>
 <strong>Verisk Analytics</strong>, Jersey City, NJ
 <br>Summer Intern, <em>Summer 2015</em> - Assisted in server migration and performed maintenance for an emergency website

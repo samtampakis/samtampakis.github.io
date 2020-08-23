@@ -6,7 +6,7 @@ title: Home
 <h2>Hello!</h2>
 <br>
 <div >
-<img src="{{ site.baseurl }}public/Faros.jpg"/>
+<img src="{{ site.baseurl }}public/Pharos.jpg"/>
 </div>
 <br>
 <p>My name is Sam and I use they/them pronouns. I'm a software developer, currently based in Madison, WI. 
